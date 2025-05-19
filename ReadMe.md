@@ -1,6 +1,6 @@
 # Mood of the Queue
 
-Mood of the Queue is a Streamlit-based application designed to help support agents log the mood of the ticket queue throughout the day, and visualize the emotional trend with data stored and retrieved in a Google Sheet. 
+Mood of the Queue is a Streamlit-based application designed to help support agents log the mood of the ticket queue throughout the day, and visualize the emotional trend with data stored and retrieved in this [Google Sheet](https://docs.google.com/spreadsheets/d/1PRa_sAOYOK_VgNKQrlywSoHCEfl6xXrr0lGmh4_4uA0/edit?gid=0#gid=0). 
 
 ## Installation
 
@@ -24,7 +24,7 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
-Access the application on the Streamlit Community Cloud at .
+Access the application on the Streamlit Community Cloud at https://dalbaaj-mochi-health-app-ydaef4.streamlit.app/.
 
 ## Contact
 
