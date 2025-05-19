@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Streamlit cache and config
+.streamlit/
+**/.streamlit/
+**/.streamlit/config.toml
+**/.streamlit/credentials.toml
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Test output
+.pytest_cache/
+
+# Environment config or secrets
+.env
+.env.*
+
+# JSON and TOML files (if you want to exclude them)
+*.json
+*.toml
+!pyproject.toml  # Keep if using Poetry or modern Python packaging
